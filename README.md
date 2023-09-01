@@ -8,6 +8,8 @@ The Emotion Detection System using Audio Features is a machine learning project 
 
 - **Real-time Analysis:** Perform real-time emotion recognition from live audio streams or analyze pre-recorded audio data.
 
+- **Dataset:** Utilizes the RAVDESS Emotional speech audio dataset from Kaggle for training and testing the speech detection model.
+
 ### How it Works
 The system employs deep neural networks and advanced audio processing techniques to extract relevant features from audio data. These features are then used to classify the emotional state of the speaker. TensorFlow is used for deep learning tasks, Librosa aids in audio feature extraction, and PyAudio facilitates real-time audio input.
 
